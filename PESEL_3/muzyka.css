@@ -1,0 +1,43 @@
+body{
+	margin:0;
+}
+#baner{
+	background-color: #812F8D;
+	color: white;
+	font-size:200%;
+	text-align: center; 
+	padding: 10px;
+	margin:0;
+	
+}
+
+/* vh - viewpoint, robi to ze leci na cala strone*/
+#panel-lewy{
+	background-color: #BB74C4;
+	color: white;
+	height: 100vh;
+	width:25%;
+	float:left;
+	
+}
+
+#panel-prawy{
+	width: 75%;
+	float:left;
+	
+
+}
+
+#panel-prawy h1{
+	text-align: center;
+	
+}
+
+#panel-prawy h2{
+	text-align: center;
+	
+}
+
+form{
+	margin: 20px;
+}
